@@ -19,6 +19,7 @@ public class p124 { hola
         }
         else{
             System.out.print("El caracter és un signo");
+            System.out.println("Hola, Sóc en xavi").
         }
     }
 }
